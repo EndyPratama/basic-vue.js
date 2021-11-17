@@ -1,1 +1,3 @@
-# basic-vue.js Comming Soon Guys ^_^
+# basic-vue.js 
+
+Comming Soon Guys ^_^
